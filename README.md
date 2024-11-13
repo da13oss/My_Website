@@ -4,7 +4,7 @@ This repository contains the code for my Full Stack Portfolio Website. This proj
 
 ## Project Overview
 
-- **Technologies Used**: HTML, CSS, JavaScript, Python, Django, MERN stack (MongoDB, Express.js, React.js, Node.js), AWS
+- **Technologies Used**: HTML, CSS, JavaScript, Python, MERN stack (MongoDB, Express.js, React.js, Node.js), Ubuntu Server
 - **Purpose**: To create a personal portfolio website that highlights my skills, projects, and experience in full stack development.
 
 ## Features
